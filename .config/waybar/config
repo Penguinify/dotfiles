@@ -1,0 +1,36 @@
+{
+    "layer": "top",
+   "margin-right": 20,
+    "margin-left": 20,
+    "margin-top": 10,
+    "passthrough": true,
+    "modules-left": ["user","hyprland/workspaces"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["disk", "cpu", "memory", "clock"],
+    "height": 30,
+"hyprland/workspaces": {
+  "format": "/ space {icon} /",
+},
+    "clock": {
+        "format": "{:%a, %d. %b  %I:%M %p} ",
+        "interval": 60
+    },
+    "user": {
+        "format": "  󰣇   ~/penguinify",
+        "interval": 600000000,
+        "height": 30,
+        "width": 30,
+        "icon": true,
+},
+"memory": {
+    "format":"  ram {percentage}% /    "
+},
+"cpu": {
+    "format": "  cpu {usage}%   / "
+},
+"disk": {
+    "format": " / disk used {used}   / "
+}
+
+}
+

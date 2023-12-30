@@ -1,0 +1,9 @@
+2023/12/30-11:39:51.984 11f4 Reusing MANIFEST /home/penguinify/.config/VencordDesktop/Local Storage/leveldb/MANIFEST-000001
+2023/12/30-11:39:51.984 11f4 Recovering log #162
+2023/12/30-11:39:51.985 11f4 Reusing old log /home/penguinify/.config/VencordDesktop/Local Storage/leveldb/000162.log 
+2023/12/30-11:41:57.687 11f5 Level-0 table #166: started
+2023/12/30-11:41:57.711 11f5 Level-0 table #166: 44018 bytes OK
+2023/12/30-11:41:57.754 11f5 Delete type=0 #162
+2023/12/30-11:42:57.687 11f5 Level-0 table #168: started
+2023/12/30-11:42:57.710 11f5 Level-0 table #168: 31978 bytes OK
+2023/12/30-11:42:57.753 11f5 Delete type=0 #165

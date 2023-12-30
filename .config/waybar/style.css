@@ -1,0 +1,42 @@
+@import 'mocha.css';
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: Quicksand;
+    font-size: 19px;
+    min-height: 0;
+    color: @text;
+
+}
+
+window#waybar {
+    background: @base;
+    border: 2px solid @sky;
+    color: white;
+    border-radius: 10px;
+}
+
+tooltip {
+}
+tooltip label {
+  color: black;
+}
+
+#workspaces button {
+    margin-left: 0px;
+}
+
+#workspaces button:first-child {
+    margin-left: 20px;
+}
+
+#workspaces button.active {
+    font-weight: 900;
+}
+
+
+#mode, #clock, #battery {
+    padding: 0 10px;
+}
+

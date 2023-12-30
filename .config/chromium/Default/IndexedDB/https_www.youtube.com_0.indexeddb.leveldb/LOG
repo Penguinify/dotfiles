@@ -1,0 +1,4 @@
+2023/12/30-13:09:28.031 30f Reusing MANIFEST /home/penguinify/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/30-13:09:28.031 30f Recovering log #18
+2023/12/30-13:09:28.036 30f Reusing old log /home/penguinify/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2023/12/30-13:09:28.036 30f Delete type=2 #17
